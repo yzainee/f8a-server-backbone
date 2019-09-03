@@ -2,6 +2,7 @@
 
 IFS=$'\n'
 
+
 # list of directories with sources to check
 directories=$(cat directories.txt)
 
